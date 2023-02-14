@@ -27,3 +27,6 @@
  ![](https://skillicons.dev/icons?i=linux,nginx)
 
 
+## Mes stats
+
+![GHstats](https://github-readme-stats.vercel.app/api?username=Claquetteuuuh&show_icons=true)
