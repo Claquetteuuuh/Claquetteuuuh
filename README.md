@@ -4,23 +4,27 @@
 -  My Discord is "ClaquetteuuuH#8986
 
 
-## Main languages:
+## 🌍 Main languages:
 
-  ![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,php)
+  ![](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,python,php)
 
-## 🌍 Main Frameworks:
+## ⚙️ Main Frameworks:
 
   ![](https://skillicons.dev/icons?i=react,nextjs,laravel)
+  
+## 🌍 Mastered Languages:
+  ![](https://skillicons.dev/icons?i=java,c,cpp)
 
-## ⚙️ Programming Tools:
+## Data Storage:
+  ![](https://skillicons.dev/icons?i=mysql,mongodb)
 
-  ![](https://skillicons.dev/icons?i=vscode,atom,git,postman,arduino&theme=dark)
+## ⚙️ Utils:
 
+  ![](https://skillicons.dev/icons?i=figma,docker,blender,aws,git,postman,ai)
 
 
 ## 🔧 OS:
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+ ![](https://skillicons.dev/icons?i=linux,nginx)
 
 
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImLorio&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
