@@ -23,7 +23,7 @@
   ![](https://skillicons.dev/icons?i=figma,docker,blender,aws,git,postman,ai)
 
 
-## 🔧 OS:
+## 🔧 System:
  ![](https://skillicons.dev/icons?i=linux,nginx)
 
 
