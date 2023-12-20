@@ -1,6 +1,6 @@
 ### Hi, I'm Claquetteuuuh, currently 18 years old student in computer science, on this GitHub I share my small open-source projects, have fun browsing it 
 
--  My Website: ![thomas-biabiany.fr](https://www.thomas-biabiany.fr/)
+-  My Website: [thomas-biabiany.fr](https://www.thomas-biabiany.fr/)
 -  My Discord is "ClaquetteuuuH#8986
 
 ## 🌍 Main languages:
