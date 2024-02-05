@@ -5,11 +5,11 @@
 
 ## 🌍 Main languages:
 
-  ![](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,python,php)
+  ![](https://skillicons.dev/icons?i=ts,js,nodejs,python,php,sass)
 
 ## ⚙ Main Frameworks:
 
-  ![](https://skillicons.dev/icons?i=react,nextjs,laravel)
+  ![](https://skillicons.dev/icons?i=react,nextjs,laravel,vue)
   
 ## 🌍 Mastered Languages:
   ![](https://skillicons.dev/icons?i=java,c,cpp)
