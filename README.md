@@ -12,7 +12,7 @@
   ![](https://skillicons.dev/icons?i=react,nextjs,laravel,vue)
   
 ## 🌍 Mastered Languages:
-  ![](https://skillicons.dev/icons?i=java,c,cpp)
+  ![](https://skillicons.dev/icons?i=java,c,cpp,kotlin)
 
 ## 💾 Data Storage:
   ![](https://skillicons.dev/icons?i=mysql,mongodb)
