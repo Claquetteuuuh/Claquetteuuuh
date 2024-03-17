@@ -11,7 +11,7 @@
 
   ![](https://skillicons.dev/icons?i=react,nextjs,laravel,vue)
   
-## 🌍 Mastered Languages:
+## 🌍 Others Languages:
   ![](https://skillicons.dev/icons?i=java,c,cpp,kotlin)
 
 ## 💾 Data Storage:
