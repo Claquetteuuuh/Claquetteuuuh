@@ -9,7 +9,7 @@
 
 ## ⚙ Main Frameworks:
 
-  ![](https://skillicons.dev/icons?i=react,nextjs,laravel,vue)
+  ![](https://skillicons.dev/icons?i=react,nextjs,laravel,vue,symfony)
   
 ## 🌍 Others Languages:
   ![](https://skillicons.dev/icons?i=java,c,cpp,kotlin)
