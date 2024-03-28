@@ -15,11 +15,11 @@
   ![](https://skillicons.dev/icons?i=java,c,cpp,kotlin)
 
 ## 💾 Data Storage:
-  ![](https://skillicons.dev/icons?i=mysql,mongodb)
+  ![](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
 
 ## ⚙️ Utils:
 
-  ![](https://skillicons.dev/icons?i=figma,docker,blender,aws,git,postman,ai)
+  ![](https://skillicons.dev/icons?i=figma,docker,blender,aws,git,postman,ai,bun)
 
 
 ## 🔧 System:
