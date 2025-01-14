@@ -1,4 +1,4 @@
-### Hi, I'm Claquetteuuuh, currently 19 years old student in computer science, on this GitHub I share my small open-source projects, have fun browsing it 
+### Hi, I'm Claquetteuuuh, currently 20 years old student in computer science, on this GitHub I share my small open-source projects, have fun browsing it 
 -  My Discord is claquetteuuuh
 
 ## 🌍 Main languages:
